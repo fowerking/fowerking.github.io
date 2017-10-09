@@ -24,6 +24,7 @@
 video{
 	width:100%;
 	min-width:1590px;
+	object-fit:fill;
 }
 .content{
 	width:90vw;
